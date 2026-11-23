@@ -20,6 +20,7 @@ h1 {
 header {
     padding: 2rem 2.75rem;
     border-bottom: 1px solid #11110d;
+    background-color: chocolate;
 }
 
 nav a, .metodo-titulo {
